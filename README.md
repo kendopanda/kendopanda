@@ -2,7 +2,7 @@
 
 ## career
 
-- 2019.10~ [Omamori inc.](https://omamori-inc.com)
+- 2019.10~ [Omamori inc.](https://site.omamori-inc.com)
 
 ## skill
 
